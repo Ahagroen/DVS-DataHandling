@@ -1,2 +1,2 @@
-## Data Handling
-Repository for the local data handling software for the Da Vinci Satellite.
+# Data Handling Software
+Repository for the local data handling software for the Da Vinci Satellite. This will handle the data processing of the satellite from the point of reception of data, until it is uploaded for use by the public facing elements of the team. It will handle both upload and download processing. Both the bitflip payload and the dice payload will be handled, although the bit flip payload will make up most of the data.
